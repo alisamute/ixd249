@@ -1,0 +1,54 @@
+ul li, ul li a, h1 {
+
+    display: inline;
+    text-decoration: none;
+
+}
+    
+ul li {
+    padding:1%;
+    border:1px solid #982B1C;
+}
+
+body {
+    padding:1%;
+    background-color: #F2E8C6;
+    font-family: "Playfair Display", serif; 
+}
+
+h1 {
+    color: #387478;
+    font-weight: 600px;
+    font-size: 40px;
+    font-size:2em;
+    line-height: 3em;
+    
+}
+
+h1 {
+    color: #821131;
+    font-weight: 600px;
+    font-size: 40px;
+}
+
+h2 {
+    color: #A02334;
+    font-weight: 400px;
+    font-size: 25px;
+    padding-top: 20px
+
+}
+
+th {
+    color: #914F1E;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+p {
+    color: #243642;
+}
+
+img {
+    display: block; 
+    padding-top: 20px; 
