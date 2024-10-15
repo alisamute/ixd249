@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #CAD3C2;
+}
+
+ .wrapper { 
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: rgb(249, 247, 239);
+    padding: 60px;
+ }
+
+section {
+    background-image: url(images/vintonCourt.png);
+    height: 600px;
+    color: #fff;
+    
+}
+
+section h1 {
+    font-size: 60px;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    letter-spacing: -1px;
+}
+
+section h3 {
+    font-size: 25px;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.headline {
+    position: relative;
+    top: 420px;
+    left: 180px;
+}
+
+h3.subhead {
+    padding: 0;
+    margin: 30px 0 24px 0;
+}
+
+p {
+    line-height: 23px;
+    letter-spacing: 0.25px;
+    margin: 0;
+    padding: 0;
+}
