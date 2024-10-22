@@ -1,0 +1,102 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.wrapper {
+    max-width: 970px;
+    margin: 0 auto;
+    background-color: #fff;
+}
+
+h1 {
+    font-weight: 300;
+    margin: 40px 0 0 10px;
+    font-size: 1.8em;
+}
+
+h2 {
+    font-weight: 200;
+    margin: 0 0 8px 0;
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 0.9em;
+    margin: 0 0 8px 0;
+}
+
+header {
+    background-color: #F5F4F2;
+    padding: 20px;
+    margin: 0 0 4px 0 ;
+}
+
+nav, aside, article {
+    background-color: #F5F4F2;
+}
+
+article {
+    margin: 0 4px;
+    padding: 30px;
+    flex: 3;
+}
+
+nav {
+    flex: 1;
+}
+aside {
+    flex: 1;
+}
+nav ul {
+    margin: 30px;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    padding: 10px 0 10px 10px;
+    border-width: 0 0 1px 0;
+    border-style: solid;
+    border-color: rgb (135, 135,129);
+}
+
+nav li a { 
+    color:rgb(56, 41, 41);
+    text-decoration: none;
+}
+
+nav li:hover {  
+    background-color: rgba(47, 36, 36, 0.1);
+}
+nav li a:hover { 
+    color:purple;
+    text-decoration: none;
+    text-decoration: underline;
+
+}
+nav li a:hover a { 
+    color:purple;
+    text-decoration: underline;
+}
+
+nav li:last-child {
+    border-width: 0;
+}
+
+main {
+    display: flex;
+}
+
+.ad {
+    background-color: #DDB88B;
+    color: white;
+    width: 140px;
+    height: 350px;
+    margin: 20px auto;
+    align-items: center;
+    justify-content: center ;
+    display: flex;
+}
