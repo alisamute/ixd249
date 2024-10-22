@@ -1,0 +1,45 @@
+ul li, ul li a, h1 {
+
+    display: inline;
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+    
+ul li {
+    padding:1%;
+    border:1px solid white;
+}
+
+body {
+    padding:1%;
+    background-color: black;
+    font-family: "Playfair Display", serif; 
+}
+
+h1 {
+    color: whitesmoke;
+    font-weight: 600px;
+    font-size: 40px;
+    font-size:2em;
+    line-height: 3em;
+    
+}
+
+h1 {
+    color: white;
+    font-weight: 600px;
+    font-size: 40px;
+}
+
+
+
+
+
+img {
+    display: block; 
+    padding-top: 20px; }
+
+div {
+    padding-bottom: 20px;
+}
