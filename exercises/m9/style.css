@@ -1,0 +1,164 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+}
+
+.wrapper {
+    max-width: 970px;
+    margin: 0 auto;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.part1 {
+    background-color: lightpink;
+}
+
+section.part2 {
+    background-color: whitesmoke;
+}
+
+section.part3 {
+    background-color: blue;
+}
+
+section.part4 {
+    background-color: rgb(102, 102, 102);
+}
+
+section.part5 {
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+section.part6 {
+    background-color: black;
+}
+
+.part1 .fast {
+    font: 700 42px "Playfair Display", serif;
+}
+
+.part1 .cheap {
+    font: 700 42px "Playfair Display", serif;
+    opacity: 0.75;
+}
+
+.part1 .high {
+    font: 700 42px "Playfair Display", serif;
+    opacity: 0.5;
+}
+
+.part1 .pick {
+    font: 700 42px "Playfair Display", serif;
+    opacity: 0.25;
+
+}
+
+.part2 .everything {
+    font: 300 42px "Cedarville Cursive", cursive;
+}
+
+.part3 {
+    font: 300 42px "Titan One", sans-serif;
+    color: whitesmoke;
+}
+
+.part3 .a2 {
+    margin: 0 0 0 382px;
+} 
+
+.part3 .smooth {
+    margin: 0 0 0 208px;
+}
+
+.part3 .sea {
+    margin: 0 0 0 126px;
+}
+
+.part3 .never {
+    margin: 0 0 0 -13px;
+}
+
+.part3 .made {
+    margin: 0 0 0 126px;
+}
+
+.part3 .a {
+    margin: 0 0 0 243px;
+}
+
+.part3 .skill {
+    margin: 0 0 0 272px;
+}
+.part3 .sailor {
+    margin: 0 0 0 433px;
+}
+
+.part4 .every {
+    font: 400 42px "Roboto", serif;
+}
+
+.part4 .amatuer {
+    font: 200 25px "Roboto", serif;
+    color:white
+
+}
+
+.part4 .every {
+    font: 700 42px "Roboto", serif;
+}
+
+.red {
+    color:red
+}
+
+.orange {
+    color: orange;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.blue {
+    color: blue;
+}
+
+.purple {
+    color: rgb(86, 0, 165);
+}
+
+.part5 .as {
+    font: 500 22px "Chivo", sans-serif;
+    color: rgb(77, 77, 77);
+}
+
+.part5 .wonder {
+    font: 400 42px "Staatliches", sans-serif;
+}
+
+.part6 .this {
+    font: 500 28px "Chivo", sans-serif;
+    color: #a4a3a3;
+}
+
+.part6 .shape {
+   font: 400 80px "Staatliches", sans-serif;
+   color: #eeeeee;
+}
+
+.part6 .or {
+    font: 500 25px "Chivo", sans-serif;
+    color: rgb(237, 97, 97);
+}
