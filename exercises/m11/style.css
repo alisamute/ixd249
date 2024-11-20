@@ -1,0 +1,83 @@
+body {
+	background-color: #eed;
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+main {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 30px;
+}
+
+h3 {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #444;
+}
+
+
+footer {
+	font-size: 0.8em;
+	text-align: center;
+}
+
+form.contact label {
+	font-size: 14px;
+	color: #555;
+	width: 150px;
+	display: block;
+	text-align: right;
+	margin: 0 8px 0 0;
+}
+
+
+form.contact div {
+	margin: 0 0 12px 0;
+	display: flex;
+	align-items: center;
+}
+
+form.contact input {
+	font-size: 18px;
+	color:#777;
+	padding: 8px;
+	border-color: #ddd;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+	width: 300px;
+	background-color: rgb(249, 247, 247);
+}
+
+form.contact textarea {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	color:#777;
+	padding: 8px;
+	border-color: #ddd;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+	width: 300px;
+	background-color: rgb(249, 247, 247);
+}
+
+
+form.contact input.button {
+	font-size: 14px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color:#ffffff;
+	padding: 8px;
+	border-color: #ddd;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 4px;
+	width: 100px;
+	background-color: #32506f;
+}
