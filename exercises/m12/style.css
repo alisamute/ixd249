@@ -1,0 +1,42 @@
+body {
+    background-color: #f2e3c7;
+}
+
+.wrapper {
+    width: 650px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 30px;
+}
+
+.one {
+    width: 50px;
+    height: 50px;
+    background-image: url(images/sprite.png);
+}
+
+.one:hover {
+    background-position: 0 50px;
+}
+
+.two {
+    width: 50px;
+    height: 50px;
+    background-position: -50px 0;
+    background-image: url(images/sprite.png);
+}
+
+.two:hover {
+    background-position: -50px 50px;
+}
+
+.three {
+    width: 50px;
+    height: 50px;
+    background-position: 50px 0;
+    background-image: url(images/sprite.png);
+}
+
+.three:hover {
+    background-position: 50px 50px;
+}
