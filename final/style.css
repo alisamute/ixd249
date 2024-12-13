@@ -1,0 +1,267 @@
+
+ul li, ul li a, h1, p, h2 {
+    justify-content: center;
+    align-items: center;
+    display: inline;
+    text-decoration: none;
+    color: black;
+    
+
+}
+.ol, ol{
+    color: black;
+}
+
+p {
+    margin: 1px 1px 1px 1px;
+    padding-top: 5px;
+    color: white;
+}
+    
+ul li {
+    padding:4% 4%;
+    margin: auto;
+    padding: auto;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 15px; 
+  }
+
+.nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 35px 0;
+}
+
+.logo {
+    background-color: #fffdf8;
+    padding: 49px 0px 10px 0px;
+    margin: -40px 0px -21px 0px;
+}
+.nav {
+    background-color: #fffdf8;
+    text-align: center;
+    justify-content: center;
+    margin: 20px 0px -18px 0px;
+    padding: 1px 1px 1px 27px;
+
+
+}
+
+body {
+    padding: 0 2%;
+    background-color: #1e1e1e;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h1 {
+    color: black;
+    font-weight: 600px;
+    font-size: 40px;
+    font-size:2em;
+    line-height: 3em;
+    
+}
+
+h1 {
+    color: black;
+    font-weight: 600px;
+    font-size: 40px;
+}
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+img {
+    display: block; 
+    padding-top: 20px; 
+}
+
+.wrap {
+max-width: 1200px;
+margin: 0 auto;
+    
+}
+.box {
+background-color:  #232626;
+  padding: 20px 1px;
+  margin: -1px 0px;
+}
+
+.title {
+    text-align: center; 
+}
+
+h6 {
+    font-family: "Meddon", cursive;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    padding: 0px 0px 0px 0px;
+    margin: -285px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 19px;
+}
+
+.h7 {
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #d3a771;
+    padding: 0px 0px 20px 0px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 52px;
+}
+
+.h8 {
+    font-family: "inter", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    padding: 0px 0px 97px 0px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px
+}
+
+h3 {
+    font-family: "inter", serif;
+    font-weight: 600;
+    font-size: x-large;
+    font-style: normal;
+    color: white;
+    padding: 120px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h4 {
+    font-family: "inter", serif;
+    font-weight: 200;
+    font-size: large;
+    font-style: normal;
+    color: white;  
+    padding: 0px 0px 10px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h5 {
+    font-family: "Inter", serif;
+    font-size: medium;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style:normal;
+    color: white;
+    border: 1px solid white; 
+    padding: 14px 0px 13px 28px;
+    margin: 1px 510px 1px 297px;
+    display: inline-block; 
+    display:flex;
+    text-align: center;
+}
+
+
+
+form.contact input.button {
+	font-size: 14px;
+	font-weight: 300;
+    font-size: medium;
+	letter-spacing: 1px;
+	color: black;
+	padding: 8px;
+	border-color: #000000;
+	border-width: 1px;
+	border-style: solid;
+	width: 150px;
+	background-color: #edbe64;
+    padding: 14px 10px 14px 10px;
+    margin: -49px 0px -19px 729px;
+    display: flex;
+}
+
+.bottomcenter {
+    height: 175px ;
+}
+
+
+.aboutus {
+    background-color: #000000;
+    
+}
+
+.aboutus1 {
+    padding: 13% 15%;
+    display:flex;
+
+}
+
+.aboutus11 {
+    display:flex;
+    flex-direction: column; 
+    padding: 1px 1px 1px 1px;
+}
+
+
+.maintext {
+    color: #D3A771;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: bold;
+    font-size:xx-large;
+    padding: 7px 0px 0px 86px;
+    margin: 0px 0px 19px -85px;
+}
+
+
+.subtext {
+    color: whitesmoke;
+    font-family: "inter", serif;
+    font-weight: 400;
+    font-style: semibold;
+    font-size: xlarge; 
+    padding: 7px 86px 0px 90px;
+    margin: 0px 0px 0px -85px;
+}
+
+.pix1 {
+    display: flex; 
+    justify-content: center; 
+    height: 100vh; 
+    width: 100%;
+    margin: 0; 
+}
+
+.about1pic {
+    
+    padding: 50px 0px 0px 0px;;
+    margin: -13px 1px 1px 1px;
+
+}
+
+.pix2 {
+    display: flex; 
+    
+    padding: 1px 1px 1px 1px;
+    margin: 1px 1px 1px 1px;
+}
