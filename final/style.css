@@ -93,9 +93,9 @@ margin: 0 auto;
     
 }
 .box {
-background-color:  #232626;
-  padding: 20px 1px;
-  margin: -1px 0px;
+    background-color:  #232626;
+    padding: 20px 1px;
+    margin: -1px 0px;
 }
 
 .title {
@@ -247,7 +247,7 @@ form.contact input.button {
 .pix1 {
     display: flex; 
     justify-content: center; 
-    height: 100vh; 
+    height: 100%; 
     width: 100%;
     margin: 0; 
 }
@@ -264,4 +264,129 @@ form.contact input.button {
     
     padding: 1px 1px 1px 1px;
     margin: 1px 1px 1px 1px;
+}
+
+
+.menu {
+    background: black;
+    padding: 9% 15%;
+}
+
+.menu1 {
+    padding: 1px 1px 1px 1px;
+    margin: 1px 1px 1px 1px;
+}
+
+.menu1pic {
+    padding: 1px 1px 1px 1px;
+    margin: 1px 1px 1px 1px;
+}
+
+.menutitle {
+    color: #D3A771;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: bold;
+    text-decoration: underline;
+    font-size: 45px;
+    padding: 89px 0px 2px 1px;
+    margin: 1px 1px 1px 1px;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.menusub {
+    color: whitesmoke;
+    font-family: "Judson", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:34px;
+    padding: 20px 1px 1px 1px;
+    margin: 1px 1px 1px 1px;
+    display:flex;
+    text-align:left;
+}
+
+
+.menubox {
+    display: flex;
+    text-align: left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    justify-content: space-between; 
+    gap: 5px;
+}
+
+.menubox1 {
+    display: flex;
+    flex-direction: column; 
+    text-align: left;
+    padding: 25px 294px 25px 25px; 
+    border: 1px solid #d3a771; 
+    border-radius: 1px; 
+    display: inline-block;
+   
+}
+
+.menuname {
+    color: aliceblue;
+    font-family: "inter", serif;
+    font-weight: 400;
+    font-style: semibold;
+    font-size: xlarge; 
+    display:flex;
+    text-align:left;
+    padding: 0px 0px 17px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.menucost {
+    color: #ABABAB;
+    font-family: "inter", serif;
+    font-weight: 400;
+    font-style: semibold;
+    font-size: xlarge; 
+    display:flex;
+    text-align:left;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.menuboxleft  {
+    padding: 0px 0px 0px 0px;
+    margin: 30px 0px 0px 0px;
+}
+
+.menuboxright {
+    padding: 0px 0px 0px 0px;
+    margin: 30px 0px 0px 0px;
+}
+
+.menuinfo {
+    color: #ABABAB;
+    display:flex;
+    text-align:left;
+    font-family: "inter", serif;
+    font-weight: 400;
+    font-style: semibold;
+    font-size: xlarge; 
+    padding: 0px 0px 15px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.menubox2 {
+    display: flex;
+    flex-direction: column; 
+    text-align: left;
+    padding: 25px 25px 25px 25px; 
+    border: 1px solid #d3a771; 
+    border-radius: 1px; 
+    display: inline-block;
+   
+}
+
+.toast {
+    padding: 0px 0px 20px 0px;
 }
